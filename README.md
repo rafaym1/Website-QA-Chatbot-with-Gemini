@@ -1,8 +1,5 @@
 # Website-QA-Chatbot-with-Gemini
 A smart chatbot that can answer questions about any website's content using Google's Gemini AI and LangChain.
-# Website QA Chatbot with Gemini
-A smart chatbot that can answer questions about any website's content using Google's Gemini AI and LangChain.
-
 ## 🌟 Key Features
 - Scrapes and processes website content through sitemaps
 - Uses state-of-the-art embeddings for semantic search
